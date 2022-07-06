@@ -1,4 +1,4 @@
-# ImersaoDados
+# Imersão Ciência de Dados
 
 Olá! Este é meu repositório com os notebooks criados durante a semana Imersão Dados da Alura de 2021 que aconteceu durante 03/05/2021 e 07/05/2021, com foco em bioinformática e drug discovery.
 
